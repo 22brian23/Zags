@@ -47,8 +47,8 @@
                                     <action selector="messageButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TrQ-lX-cpa"/>
                                 </connections>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="spike.png" translatesAutoresizingMaskIntoConstraints="NO" id="nFw-G7-vMC">
-                                <rect key="frame" x="20" y="539" width="381" height="249"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="spike.png" translatesAutoresizingMaskIntoConstraints="NO" id="fNV-En-CO5">
+                                <rect key="frame" x="58" y="458" width="298" height="383"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
