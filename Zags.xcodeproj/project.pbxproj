@@ -13,6 +13,7 @@
 		8C6943FA23DFDD5900B0D61F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C6943F823DFDD5900B0D61F /* Main.storyboard */; };
 		8C6943FC23DFDD5D00B0D61F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C6943FB23DFDD5D00B0D61F /* Assets.xcassets */; };
 		8C6943FF23DFDD5D00B0D61F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C6943FD23DFDD5D00B0D61F /* LaunchScreen.storyboard */; };
+		8C69440723DFE50800B0D61F /* spike.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C69440623DFE50800B0D61F /* spike.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8C6943FB23DFDD5D00B0D61F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C6943FE23DFDD5D00B0D61F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8C69440023DFDD5D00B0D61F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C69440623DFE50800B0D61F /* spike.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = spike.png; path = ../../spike.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8C6943FB23DFDD5D00B0D61F /* Assets.xcassets */,
 				8C6943FD23DFDD5D00B0D61F /* LaunchScreen.storyboard */,
 				8C69440023DFDD5D00B0D61F /* Info.plist */,
+				8C69440623DFE50800B0D61F /* spike.png */,
 			);
 			path = Zags;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C69440723DFE50800B0D61F /* spike.png in Resources */,
 				8C6943FF23DFDD5D00B0D61F /* LaunchScreen.storyboard in Resources */,
 				8C6943FC23DFDD5D00B0D61F /* Assets.xcassets in Resources */,
 				8C6943FA23DFDD5900B0D61F /* Main.storyboard in Resources */,
